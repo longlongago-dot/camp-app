@@ -1,11 +1,17 @@
 # camp-app
 
 使用言語: JavaScript(Node.js)
+
+フレームワーク: Express
+
+テンプレートエンジン: EJS
+
 使用DB: MongoDB
+
 スタイル: Bootstrap
 
-機能
 
+機能
 ・MongoDBでのCRUD
 
 ・ログイン/会員登録
