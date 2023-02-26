@@ -2,6 +2,7 @@
 
 使用言語: JavaScript(Node.js)
 使用DB: MongoDB
+スタイル: Bootstrap
 
 機能
 
