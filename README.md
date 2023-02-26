@@ -10,4 +10,4 @@
 ・ログイン/会員登録
 
 ・authorization(※ログインユーザによって、編集権限可否を決める)
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTUyYTYxMjVmYjlkNzQxYTE1OWUyNjkzZjJiZTEwNTdiZmE3ZjNmOSZjdD1n/bnAqpjaeRwKf9GMCfZ/giphy.gif
+<iframe src="https://giphy.com/embed/bnAqpjaeRwKf9GMCfZ" width="480" height="222" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/github-bnAqpjaeRwKf9GMCfZ">via GIPHY</a></p>
