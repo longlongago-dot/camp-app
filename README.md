@@ -4,6 +4,9 @@
 使用DB: MongoDB
 
 機能
+
 ・MongoDBでのCRUD
+
 ・ログイン/会員登録
+
 ・authorization(※ログインユーザによって、編集権限可否を決める)
