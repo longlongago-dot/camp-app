@@ -11,5 +11,6 @@
 
 ・authorization(※ログインユーザによって、編集権限可否を決める)
 
-![demo](https://github.com/longlongago-dot/camp-app/issues/1#issue-1599944895)
+![application](https://user-images.githubusercontent.com/62493849/221395961-21e65dfb-ab74-4251-9d3f-a21c65627eed.gif)
+
 
