@@ -21,6 +21,3 @@
 
 ![application](https://user-images.githubusercontent.com/62493849/221395961-21e65dfb-ab74-4251-9d3f-a21c65627eed.gif)
 
-
-教材
-The Web Developer Bootcamp 2023 --Colt Steele　にて学習
